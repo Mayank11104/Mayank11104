@@ -45,4 +45,4 @@ I enjoy turning an idea into a running service: infrastructure → deployment au
 
 ## 📫 Reach me
 - Email: mayuchaudhari2004@gmail.com
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
+- LinkedIn: www.linkedin.com/in/mayankchaudhari2004
