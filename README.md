@@ -16,6 +16,7 @@
 </p>
 
 ---
+[![Credly Badge](https://github.com/Mayank11104/Mayank11104/blob/main/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/ca8807ea-ed3f-4530-92ba-11bebbcb8717/linked_in_profile)
 
 ## 👋 About
 I’m a 3rd-year Computer Science student focused on building and deploying real systems on AWS.
