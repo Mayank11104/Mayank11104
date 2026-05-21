@@ -54,39 +54,11 @@
 
 ---
 
-## 🔥 Featured Project
-
-### [Alchemyst AI — Distributed Inference on AWS](https://github.com/Mayank11104/alchemyst-devops-assignment-mayank)
-
-Deployed a distributed LLM inference stack across 3 AWS EC2 VMs using Terraform.
-
-```
-Internet → Nginx (public subnet) → iii engine + TypeScript caller (private)
-                                 → Python inference worker on separate VM (private)
-```
-
-- **VPC** with public + private subnets, NAT Gateway, Internet Gateway
-- **Security groups** — workers unreachable from internet, API exposed on port 3111 only
-- **Terraform IaC** — `terraform apply` builds the entire stack from scratch
-- **Workers communicate over WebSocket RPC** — no direct connection between workers
-- Fixed 9 real deployment issues: host binding, KVM sandbox, PyTorch OOM, Windows SSH ACL
-
----
-
 ## 🌱 What I'm learning
 
 - **Kubernetes** — pods, deployments, services, ingress, kubectl basics
 - **Jenkins** — pipelines, declarative syntax, CI/CD integration with GitHub
 - **NLP & LLM deployment** — prompt engineering, GGUF quantized models, inference serving
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayank11104&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank11104&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
 
 ---
 
